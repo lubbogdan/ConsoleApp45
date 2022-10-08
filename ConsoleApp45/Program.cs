@@ -11,6 +11,7 @@ namespace ConsoleApp45
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
+            int i = 5;
         }
     }
 }
