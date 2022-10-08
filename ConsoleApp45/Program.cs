@@ -12,6 +12,7 @@ namespace ConsoleApp45
         {
             Console.WriteLine("Hello");
             int i = 5;
+            int p = 10;
         }
     }
 }
